@@ -1,9 +1,9 @@
 # Cookbook-Dataset
-# 美食菜谱数据集（菜谱2478个）
+# 美食菜谱数据集（菜谱13943个）
 
 #### 1、介绍
 
-数据集包含2478个菜谱，涵盖了多种菜系和不同的做法类型，数据集可用于AI大模型训练、智能体知识库构建！
+数据集包含13943个菜谱，涵盖了多种菜系和不同的做法类型，数据集可用于AI大模型训练、智能体知识库构建！
 
 #### 2、数据集获取
 
@@ -12,9 +12,9 @@
 整理不易，小偿获取，谢谢理解~
 
 #### 3、展示
-![image](https://github.com/user-attachments/assets/47e51965-7e81-4a69-ba1e-9dc6d8bc0d1d)
-
-![image](https://github.com/user-attachments/assets/2cd66dab-f7ac-4bbe-97d6-ead1e5671716)
+<img width="1080" height="646" alt="image" src="https://github.com/user-attachments/assets/e76fe776-675e-4a03-8b74-6113db03a4b1" />
+<img width="1091" height="691" alt="image" src="https://github.com/user-attachments/assets/f20cf61e-3e4d-49e8-a088-4cc7440fd198" />
+<img width="1098" height="686" alt="image" src="https://github.com/user-attachments/assets/b981d710-b224-4982-8336-ebbdacd9f5a5" />
 
 
 #### 4、免责声明
